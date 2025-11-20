@@ -27,5 +27,21 @@ A screenshot of the option to add a file to your new repository highlighted in r
 
 5. In the file contents text box, type content for the file.
 
-To review the new content, above the file contents, select Preview
+6. To review the new content, above the file contents, select Preview
+   <img width="468" height="201" alt="image" src="https://github.com/user-attachments/assets/42ba40c7-5258-4d2b-9ee0-22c71b6bf022" />
+
+7. Select Commit changes.
+
+8. In the Commit message field, type a short and meaningful commit message that describes the change you made to the file. You can attribute the commit to more than one author in the commit message.
+
+9. If you have more than one email address associated with your account on GitHub.com, select the email address drop-down menu. 
+   
+<img width="2149" height="779" alt="image" src="https://github.com/user-attachments/assets/bdf43112-090d-4937-ac50-7e5e5203c9f8" />
+
+10 Below the Commit message fields, decide whether to add your commit to the current branch or to a new branch.
+
+<img width="468" height="116" alt="image" src="https://github.com/user-attachments/assets/a1d4a9c4-51cf-4b5e-8f88-02364efc609a" />
+
+11. Select Commit changes or Propose changes.
+
 
