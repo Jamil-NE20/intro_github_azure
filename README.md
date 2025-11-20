@@ -44,4 +44,38 @@ A screenshot of the option to add a file to your new repository highlighted in r
 
 11. Select Commit changes or Propose changes.
 
+# What are wikis?
+Every repository on GitHub.com comes equipped with a section for hosting documentation, called a wiki. You can use your repository's wiki to share long-form content about your project, such as how to use it, how you designed it, or its core principles. While a README file quickly tells what your project can do, you can use a wiki to provide additional documentation.
+
+# Creating, editing, and deleting wiki pages
+You can use the GitHub wiki to create and manage documentation for your project.
+
+# To create a wiki page:
+
+1. Navigate to the repository.
+2. Select the Wiki tab.
+3. Select Create the first page if no pages exist, or New Page to add a page.
+4. Enter a title and content, then select Save Page.
+
+# To edit a wiki page:
+
+1. Navigate to the wiki page you want to edit.
+2. Select Edit at the top-right.
+3. Make changes and select Save Page.
+
+# To delete a wiki page:
+
+Deleting a wiki page requires using Git. Clone the wiki repository, remove the file, and push the change.
+Learn more about managing wikis in GitHub Docs - Adding or editing wiki pages.
+
+# What are Feature Previews?
+Feature Previews allow you to try out experimental features on GitHub before they are officially released. These previews give you early access to new functionality and allow you to provide feedback to help shape the final product.
+
+# To enable or disable a feature preview:
+
+1. Navigate to your GitHub account by selecting your profile picture in the top-right corner of GitHub.com.
+2. Select Feature preview from the drop-down menu.
+3. Browse the list of available previews and toggle the features you want to try.
+Feature Previews are a great way to stay ahead of the curve and explore new tools that can enhance your GitHub experience.
+
 
